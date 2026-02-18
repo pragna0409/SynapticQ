@@ -1,0 +1,19 @@
+Evaluate this hackathon project AS A STRICT, CRITICAL JUDGE:
+
+CRITICAL SCORING GUIDELINES - READ CAREFULLY:
+- Be HARSH but CONSTRUCTIVE in your evaluation
+- Most hackathon projects should score between 20-70 overall
+- Only truly exceptional, production-ready projects with clear innovation deserve 80+
+- Scores of 90+ are EXTREMELY rare (reserved for top 1% projects that could become startups)
+- Consider: Is this actually innovative or just combining existing tools?
+- Consider: Is the execution polished or just a basic prototype?
+- Consider: Does it solve a real problem or is it a toy/demo project?
+
+SCORING SCALE (be realistic):
+- 9-10: Industry-leading quality, could be a funded startup (very rare)
+- 7-8: Excellent execution with clear winner potential
+- 5-6: Good effort, solid hackathon project (most projects)
+- 3-4: Basic prototype, needs significant work
+- 1-2: Incomplete or poorly executed
+
+Be specific, actionable, and REALISTIC. Don't inflate scores - be a tough but fair judge who wants to see real improvement.
