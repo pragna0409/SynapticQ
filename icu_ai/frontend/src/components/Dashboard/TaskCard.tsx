@@ -13,7 +13,7 @@ interface Task {
     id: string;
     title: string;
     description: string;
-    status: string;
+    status: 'draft' | 'in_progress' | 'editing' | 'done';
     priority: 'main' | 'secondary' | 'tertiary';
     progress: number;
     is_favorite: boolean;

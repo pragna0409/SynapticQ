@@ -38,7 +38,7 @@ const columns = [
     { id: 'done', title: 'DONE', color: 'from-blue-600 to-pink-600' },
 ];
 
-export default function KanbanBoard({ tasks, onTaskUpdate, onTaskDelete, onRefresh }: KanbanBoardProps) {
+export default function KanbanBoard({ tasks, onTaskUpdate, onTaskDelete }: KanbanBoardProps) {
     const [draggedTask, setDraggedTask] = useState<Task | null>(null);
 
     const handleDragStart = (task: Task) => {
