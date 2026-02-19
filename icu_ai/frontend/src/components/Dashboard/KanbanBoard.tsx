@@ -28,7 +28,6 @@ interface KanbanBoardProps {
     tasks: Task[];
     onTaskUpdate: (taskId: string, updates: Partial<Task>) => void;
     onTaskDelete: (taskId: string) => void;
-    onRefresh: () => void;
 }
 
 const columns = [
